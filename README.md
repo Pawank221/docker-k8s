@@ -2,6 +2,14 @@
 
 `All the installation instructions are for Ubuntu. For other OS, visit full documentation`
 
+# Table of Contents
+
+1. [Docker installation](#1.-Docker-Installation)
+2. [Docker-Compose Installation](#2.-Docker-Compose-Installation)
+3. [Installing Kubernetes](#3.-Installing-Kubernetes)
+   1. [Ubuntu](#Ubuntu)
+   2. [CentOs](#CentOs)
+
 ## 1. Docker Installation - [Documentation](https://docs.docker.com/install/linux/docker-ce/ubuntu/#install-docker-ce)
 
 ```
